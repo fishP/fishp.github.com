@@ -1,0 +1,22 @@
+markdown:         rdiscount
+pygments:         true
+paginate:         6
+
+title:            Black Cube Theme
+url:              http://www.pizn.me
+feed:             /atom.xml
+author:
+    name:         bahuasheng
+    email:        bahuasheng@gmail.com
+description:      "Black Cube Theme"
+
+about: 			  "I am bahuasheng.I love all kinds of design.Challege makes me excited."
+follow:
+    github:       https://github.com/bahuasheng
+    weibo:      http://weibo.com/3825675786/profile?topnav=1&wvr=5&user=1
+description:      "Black Cube Theme 1.0 "
+
+
+style: 			  /css/style.css
+blogName: 		  bahuasheng blog
+blogDesc: 		  Doubt is the key to knowledge. 
